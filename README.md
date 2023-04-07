@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @whois_subash
-- 👀 I’m interested in web development and fullstack
-- 🌱 I’m currently learning frontend
+- 👀 I’m interested in cloud technologies and information security
+- 🌱 I’m currently learning devops engineering
 
 
 <!---
